@@ -1,4 +1,4 @@
-# Metro2077 Exodus (local backup of save files)
+# Metro Exodus (local backup of save files)
   Basically, the game offers only 4 last saves.  Any new quick/manual and auto saves will overwrite older save files leaving you with 4 previous saves to choose from..  I find it quite inconvenient -  especially when I want to return further back, or to replay a chapter.  So.. the ```backup_metro_saves.ps1``` powershell script helps with the issue.
 
 ### How does it work?
